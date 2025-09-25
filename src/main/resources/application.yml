@@ -104,7 +104,7 @@ knife4j:
       default:
         api-rule: package
         api-rule-resources:
-          - com.shane.shane_OJ.controller
+          - com.shane.judgeLab.controller
 
 # 代码沙箱配置
 codesandbox:
